@@ -1,5 +1,6 @@
 # Hello-World
-Distributed lighting system
+"Distributed lighting system project"
+
 Dear Github Community,
 I'm Salva, I'm post doctoral researcher in economics and management, I'm curretly focusing on distributed computer programs, in particular virtual teams that cooperate via remote access in order to develop a software (for instance), in a distribuited value chain. My study goal consists to create a small distributed lighting systems based on "2 raspberry PI 3 model B +", each one, connected to a led unit via dmx512 (2 dmx interface for raspberry).
 
