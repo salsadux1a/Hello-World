@@ -2,7 +2,7 @@
 "Distributed lighting system project"
 
 Dear Github Community,
-I'm Salva, I'm post doctoral researcher in economics and management, I'm curretly focusing on distributed computer programs, in particular virtual teams that cooperate via remote access in order to develop a software (for instance), in a distribuited value chain. My study goal consists to create a small distributed lighting systems based on "2 raspberry PI 3 model B +", each one, connected to a led unit via dmx512 (2 dmx interface for raspberry).
+I'm Salva, I'm post doctoral researcher in economics and management, I'm curretly focusing on distributed computer programs, in particular virtual teams that cooperate via remote access in order to develop a software (for instance), in a distribuited value chain. My study goal consists to create a small distributed lighting systems based on "3 raspberry PI 3 model B +", each one, connected to a led unit via dmx512 (2 dmx interface for raspberry).
 
 I thought: 1 board works as master device and the 2 boards as slave devices. The 2 boards have to work in syncro with the master and they have to do what the master order them ( show, simultaneously, the same light effect of the master).
 
@@ -11,7 +11,6 @@ I'm not an engineer so it's quite hard for me this little project, by the way I'
 At the moment I have bought:
 
 two DMX interface for Raspberry pi with usb (FT245RL)
-http://bitwizard.nl/shop/dmx/DMX-interface-for-Raspberry-pi-with-usb-(FT245RL)
 
 two raspeberry Pi 3 model B +
 
